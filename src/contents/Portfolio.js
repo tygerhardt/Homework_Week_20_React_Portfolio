@@ -15,7 +15,7 @@ return (
 
 <Widecard title="Weather Dashboard" projectLink="https://tygerhardt.github.io/Homework_Week_6/" text="The Weather Dashboard was one of our first assignments that we leveraged API's build a tool allows you to search for and return specific data. It was a bit challenging but mostly fun and a great introduction to using API's." />
 
-<Widecard title="Team Generator" projectLink="https://tygerhardt.github.io/Homework_Week_6/" text="The Team Generator app was a challenge to build a Node CLI that takes in information about employees that utilized the Inquirer npm package to give user promots to generate an HTML webpage that displays summaries for each person. Because this is a command-line application I have included a link in my Read Me of the video demonstrating the app's functionality." />
+<Widecard title="Team Generator" projectLink="https://github.com/tygerhardt/Homework_Week_10_Template_Engine_Employee_Summary" text="The Team Generator app was a challenge to build a Node CLI that takes in information about employees that utilized the Inquirer npm package to give user promots to generate an HTML webpage that displays summaries for each person. Because this is a command-line application I have included a link in my Read Me of the video demonstrating the app's functionality." />
 
 <Widecard title="Class Project 1: TŪNADO!" projectLink="https://weerklank.github.io/HyperSlugs/" text="Do you love Spotify? Do you like the idea of being able to create playlists based on the weather in your home town or exotic location...AUTOMAGICALLY?!!! Of course you do...and that's what we did." 
 
