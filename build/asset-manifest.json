@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Homework_Week_20_React_Portfolio/static/css/main.a9bb4631.chunk.css",
-    "main.js": "/Homework_Week_20_React_Portfolio/static/js/main.17ba90e7.chunk.js",
-    "main.js.map": "/Homework_Week_20_React_Portfolio/static/js/main.17ba90e7.chunk.js.map",
+    "main.js": "/Homework_Week_20_React_Portfolio/static/js/main.762e7997.chunk.js",
+    "main.js.map": "/Homework_Week_20_React_Portfolio/static/js/main.762e7997.chunk.js.map",
     "runtime-main.js": "/Homework_Week_20_React_Portfolio/static/js/runtime-main.f92c1d8a.js",
     "runtime-main.js.map": "/Homework_Week_20_React_Portfolio/static/js/runtime-main.f92c1d8a.js.map",
-    "static/js/2.577cd972.chunk.js": "/Homework_Week_20_React_Portfolio/static/js/2.577cd972.chunk.js",
-    "static/js/2.577cd972.chunk.js.map": "/Homework_Week_20_React_Portfolio/static/js/2.577cd972.chunk.js.map",
+    "static/js/2.faae8ebb.chunk.js": "/Homework_Week_20_React_Portfolio/static/js/2.faae8ebb.chunk.js",
+    "static/js/2.faae8ebb.chunk.js.map": "/Homework_Week_20_React_Portfolio/static/js/2.faae8ebb.chunk.js.map",
     "index.html": "/Homework_Week_20_React_Portfolio/index.html",
-    "precache-manifest.0a080715fc0b07feb8784b61a3eb93d7.js": "/Homework_Week_20_React_Portfolio/precache-manifest.0a080715fc0b07feb8784b61a3eb93d7.js",
+    "precache-manifest.44ffb9b8684668934ef7ae13341ed270.js": "/Homework_Week_20_React_Portfolio/precache-manifest.44ffb9b8684668934ef7ae13341ed270.js",
     "service-worker.js": "/Homework_Week_20_React_Portfolio/service-worker.js",
     "static/css/main.a9bb4631.chunk.css.map": "/Homework_Week_20_React_Portfolio/static/css/main.a9bb4631.chunk.css.map",
-    "static/js/2.577cd972.chunk.js.LICENSE.txt": "/Homework_Week_20_React_Portfolio/static/js/2.577cd972.chunk.js.LICENSE.txt",
+    "static/js/2.faae8ebb.chunk.js.LICENSE.txt": "/Homework_Week_20_React_Portfolio/static/js/2.faae8ebb.chunk.js.LICENSE.txt",
     "static/media/ty-1.jpg": "/Homework_Week_20_React_Portfolio/static/media/ty-1.5eb543db.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f92c1d8a.js",
-    "static/js/2.577cd972.chunk.js",
+    "static/js/2.faae8ebb.chunk.js",
     "static/css/main.a9bb4631.chunk.css",
-    "static/js/main.17ba90e7.chunk.js"
+    "static/js/main.762e7997.chunk.js"
   ]
 }
