@@ -17,9 +17,6 @@ function App() {
 <div className="App">
 <Navbar />
 {/* Route for Home.js contents */}
-<Route exact path="/">
-<Home />
-</Route>
 {/* Route for About.js contents */}
 <Route path="/about">
 <About />
@@ -31,6 +28,9 @@ function App() {
 {/* Route for Contact.js contents */}
 <Route path="/contact">
 <Contact />
+</Route>
+<Route path="/">
+<Home />
 </Route>
 </div>
 </Router>
