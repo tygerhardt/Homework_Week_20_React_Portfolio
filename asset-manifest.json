@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Homework_Week_20_React_Portfolio/static/css/main.a9bb4631.chunk.css",
-    "main.js": "/Homework_Week_20_React_Portfolio/static/js/main.762e7997.chunk.js",
-    "main.js.map": "/Homework_Week_20_React_Portfolio/static/js/main.762e7997.chunk.js.map",
+    "main.js": "/Homework_Week_20_React_Portfolio/static/js/main.d8df4056.chunk.js",
+    "main.js.map": "/Homework_Week_20_React_Portfolio/static/js/main.d8df4056.chunk.js.map",
     "runtime-main.js": "/Homework_Week_20_React_Portfolio/static/js/runtime-main.f92c1d8a.js",
     "runtime-main.js.map": "/Homework_Week_20_React_Portfolio/static/js/runtime-main.f92c1d8a.js.map",
     "static/js/2.faae8ebb.chunk.js": "/Homework_Week_20_React_Portfolio/static/js/2.faae8ebb.chunk.js",
     "static/js/2.faae8ebb.chunk.js.map": "/Homework_Week_20_React_Portfolio/static/js/2.faae8ebb.chunk.js.map",
     "index.html": "/Homework_Week_20_React_Portfolio/index.html",
-    "precache-manifest.44ffb9b8684668934ef7ae13341ed270.js": "/Homework_Week_20_React_Portfolio/precache-manifest.44ffb9b8684668934ef7ae13341ed270.js",
+    "precache-manifest.1b2deef55973241fc2569519fb2476be.js": "/Homework_Week_20_React_Portfolio/precache-manifest.1b2deef55973241fc2569519fb2476be.js",
     "service-worker.js": "/Homework_Week_20_React_Portfolio/service-worker.js",
     "static/css/main.a9bb4631.chunk.css.map": "/Homework_Week_20_React_Portfolio/static/css/main.a9bb4631.chunk.css.map",
     "static/js/2.faae8ebb.chunk.js.LICENSE.txt": "/Homework_Week_20_React_Portfolio/static/js/2.faae8ebb.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f92c1d8a.js",
     "static/js/2.faae8ebb.chunk.js",
     "static/css/main.a9bb4631.chunk.css",
-    "static/js/main.762e7997.chunk.js"
+    "static/js/main.d8df4056.chunk.js"
   ]
 }
