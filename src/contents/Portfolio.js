@@ -17,6 +17,8 @@ return (
 
 <Widecard title="Team Generator" projectLink="https://github.com/tygerhardt/Homework_Week_10_Template_Engine_Employee_Summary" text="The Team Generator app was a challenge to build a Node CLI that takes in information about employees that utilized the Inquirer npm package to give user promots to generate an HTML webpage that displays summaries for each person. Because this is a command-line application I have included a link in my Read Me of the video demonstrating the app's functionality." />
 
+<Widecard title="Book Vault" projectLink="https://shrouded-ocean-82572.herokuapp.com/" text="In this activity, I created a new React-based Google Books Search app. The assignment required me to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. I also used Node, Express and MongoDB so that users can save books to review or purchase later." />
+
 <Widecard title="Class Project 1: TŪNADO!" projectLink="https://weerklank.github.io/HyperSlugs/" text="Do you love Spotify? Do you like the idea of being able to create playlists based on the weather in your home town or exotic location...AUTOMAGICALLY?!!! Of course you do...and that's what we did." 
 
 text2="TŪNADO! was a collaborative effort and my very first coding bootcamp group project. This app succesfully leveraged Spotify and weather API's to create this cool and fun app. My primary focus was on the HTML and CSS as well as the name and overall look and feel. I was looking to create a clean, minimalist, late-70's early 80's aesthetic as a fun alternative to all of the Bootstrappy sites out there. In fact, for CSS we opted to use Skeleton CSS for it's ease of use and customization."/>
